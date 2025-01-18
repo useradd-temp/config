@@ -1,0 +1,8 @@
+fish_update_completions
+
+fisher install jethrokuan/z
+
+fisher install IlanCosman/tide@v6
+
+set fish_color_search_match black --background=magenta
+
