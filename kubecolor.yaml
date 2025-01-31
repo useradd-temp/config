@@ -1,0 +1,10 @@
+theme:
+  base:
+    info: fg=C8CFA0:bold
+    primary: fg=C8CFA0:bold
+    secondary: fg=78ABA8:bold
+    success: fg=white:bg=36C2CE:bold
+    warning: fg=white:bg=F72C5B:bold
+    danger: fg=white:bg=F72C5B:bold
+  table:
+    header: fg=white:bg=#000000:bold
