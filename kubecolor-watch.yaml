@@ -1,0 +1,11 @@
+theme:
+  base:
+    info: fg=blue:bold
+    primary: fg=white:bold
+    secondary: fg=white:bold
+    success: fg=white:bg=blue:bold
+    warning: fg=white:bg=red:bold
+    danger: fg=white:bg=red:bold
+  table:
+    header: fg=cyan:bold
+
