@@ -4,7 +4,11 @@ theme:
     primary: fg=C8CFA0:bold
     secondary: fg=78ABA8:bold
     success: fg=white:bg=36C2CE:bold
-    warning: fg=white:bg=F72C5B:bold
-    danger: fg=white:bg=F72C5B:bold
+    warning: fg=white:bg=yellow:bold
+    danger: fg=white:bg=red:bold
+    key: "685752"
   table:
-    header: fg=white:bg=#000000:bold
+    header: fg=white:bg=1A1A1D:bold
+  data:
+    key: BFBBA9
+    string: BFBBA9
