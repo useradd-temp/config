@@ -12,3 +12,7 @@ enable_transience
 alias k=kubectl
 alias tf=terraform
 
+export GOPATH=$GOROOT/gopath
+export GOBIN=$GOPATH/bin
+set -gx PATH $PATH $GOROOT/bin
+set -gx PATH $PATH $GOBIN
