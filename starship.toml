@@ -68,7 +68,7 @@ Pop = ""
 
 [kubernetes]
 disabled = false
-format = '[ ⎈ ($cluster) ](bg:#326CE5 bold)'
+format = '[ ⎈ ($context) ](bg:#326CE5 bold)'
 
 [aws]
 symbol = "  "
