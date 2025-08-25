@@ -9,6 +9,7 @@
 - fish
 - kitty
 - kubectl
+- miniconda
 - awscli
 - starship
 - kubecolor
