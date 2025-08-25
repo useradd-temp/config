@@ -11,3 +11,4 @@
 - kubectl
 - awscli
 - starship
+- kubecolor
