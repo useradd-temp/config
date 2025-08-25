@@ -12,3 +12,4 @@
 - awscli
 - starship
 - kubecolor
+- input source pro
