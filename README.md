@@ -14,3 +14,6 @@
 - starship
 - kubecolor
 - input source pro
+- redacted
+- magnet
+- textsniper
