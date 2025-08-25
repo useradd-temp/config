@@ -2,6 +2,9 @@
 
 ### install
 
+- bartender 5
+- runcat
+- itsycal
 - brew
 - fish
 - kitty
